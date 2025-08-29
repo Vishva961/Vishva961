@@ -53,7 +53,7 @@
 ## 📂 Featured Projects  
 🔹 [🏡 House Price Prediction](#) – Linear Regression on housing data  
 🔹 [📈 Sales Dashboard](#) – Excel + Dashboard for Data analysis  
-🔹 [📈 Titanic Data Analysis ](#) – using Pandas + Plotly for Data analysis 
+🔹 [📈 Titanic Data Analysis ](#) – using Pandas + Plotly for Data analysis
 🔹 [📈 Modern Art Data Analysis](#) – using python in Visual studio code 
 
 ---
