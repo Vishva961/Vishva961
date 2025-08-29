@@ -1,18 +1,79 @@
-## Hi there 👋
+<!-- Banner / Intro -->
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="200px"/>
 
 <h1 align="center">Hi 👋, I'm Viswa</h1>
-<h3 align="center">Data Science Graduate (M.Sc.) | Python • SQL • Excel • Power BI • Tableau | Exploring Machine Learning & Analytics for real-world impact</h3>
+<h3 align="center">🎓 Data Science Graduate (M.Sc.) | Python • SQL • Excel • Power BI • Tableau | Exploring Machine Learning & Analytics 🚀</h3>
 
-- 🌱 I’m currently learning **Data Science and Machine learning**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 About Me
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 📊 Passionate about **Data Analytics, BI Dashboards, and AI Applications**
+- 💡 Love transforming raw data into **meaningful insights & stories**
+- 🤝 Open to collaborations, internships, and job opportunities
+- ⚡ Fun fact: *Data is the new oil, but insights are the real fuel!*
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/viswa16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswa16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/viswa16" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:viswa@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/vishva961"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishva961&show_icons=true&locale=en&layout=compact" alt="vishva961" /></p>
+## 🛠️ Languages & Tools
+<p align="center">  
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/></a>
+<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/></a>
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/></a>
+<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/></a>
+<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/></a>
+<a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/512/power-bi.png" width="50"/></a>
+<a href="https://www.tableau.com/"><img src="https://img.icons8.com/color/512/tableau-software.png" width="50"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishva961&show_icons=true&locale=en" alt="vishva961" /></p>
+---
+
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishva961&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishva961&layout=compact&theme=radical" height="180"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishva961&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishva961&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📂 Featured Projects
+🔹 [🏡 House Price Prediction](#) – Linear Regression on housing data  
+🔹 [📈 Sales Dashboard](#) – Excel + Power BI analytics  
+🔹 [🤖 AI Chatbot](#) – Intent classification & GenAI fine-tuning  
+
+---
+
+## 🎯 Current Goals
+- Advance expertise in **Machine Learning & Deep Learning**
+- Build impactful **Data Science projects**
+- Contribute to **open-source & research communities**
+
+---
+
+## ✨ Closing Note
+<p align="center">
+  Thanks for visiting my profile! 🚀  
+  Let’s connect and build something amazing together! 💡
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="200px"/>
