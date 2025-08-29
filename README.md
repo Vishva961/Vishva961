@@ -1,6 +1,6 @@
 <!-- Banner / Intro -->
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/data-science-banner-concept-with-icons_258153-321.jpg" width="100%" />
+  <img src="LinkedIn.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Viswa</h1>
