@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Viswa</h1>
 <h3 align="center">Data Science Graduate (M.Sc.) | Python • SQL • Excel • Power BI • Tableau | Exploring Machine Learning & Analytics for real-world impact</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishva961&label=Profile%20views&color=0e75b6&style=flat" alt="vishva961" /> </p>
-
 - 🌱 I’m currently learning **Data Science and Machine learning**
 
 <h3 align="left">Connect with me:</h3>
