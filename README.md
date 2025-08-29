@@ -48,20 +48,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishva961&layout=compact&theme=radical" height="180"/>
 </p>  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishva961&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishva961&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>  
-
 ---
 
 ## 📂 Featured Projects  
 🔹 [🏡 House Price Prediction](#) – Linear Regression on housing data  
-🔹 [📈 Sales Dashboard](#) – Excel + Power BI analytics  
-🔹 [🤖 AI Chatbot](#) – Intent classification & GenAI fine-tuning  
+🔹 [📈 Sales Dashboard](#) – Excel + Dashboard for Data analysis  
+🔹 [📈 Titanic Data Analysis ](#) – using Pandas + Plotly for Data analysis 
+🔹 [📈 Modern Art Data Analysis](#) – using python in Visual studio code for Data analysis  
 
 ---
 
